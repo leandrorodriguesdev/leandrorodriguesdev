@@ -19,7 +19,7 @@ Sou um entusiasta da tecnologia e um **Backend Developer** desde 2023, atualment
 
 ## Me Encontre
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-rodrigues-dev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br80e6p0%2BQJ2xYWriTy9zYg%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrorodriguesdev/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br80e6p0%2BQJ2xYWriTy9zYg%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrorodriguesdev@gmail.com)
 
 
