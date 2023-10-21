@@ -23,5 +23,5 @@ Sou um entusiasta da tecnologia e um **Backend Developer** desde 2023, atualment
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrorodriguesdev@gmail.com)
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueshub&theme=onedark&custom_title=Top%20%Linguagens)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorodriguesdev&theme=onedark&custom_title=Top%20%Linguagens)
 
