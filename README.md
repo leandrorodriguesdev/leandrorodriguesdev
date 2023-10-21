@@ -1,4 +1,4 @@
-# Olá, Leandro aqui! 👋
+# Oi, Leandro aqui! 👋
 
 Sou um entusiasta da tecnologia e um **Backend Developer** desde 2023, atualmente à procura de oportunidades empolgantes no campo.
 
